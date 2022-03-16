@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adaezeudeh
 - 👀 I’m interested in data analytics and engineering .
-- 🌱 I’m currently learning to use airflow,airbyte,slow fake for data integration and analysis 
+- 🌱 I’m currently learning to use airflow,airbyte,slow flake for data integration and analysis 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Send me a mail at adaezeudeh22@gmail.com
 
